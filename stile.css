@@ -1,0 +1,19 @@
+
+
+header a:hover{
+  margin-right: 2rem;
+  color: white;
+  
+  text-decoration: underline;
+  z-index: 5;
+}
+
+header h3{
+  margin-right: 2rem;
+  color: white;
+  
+  text-decoration: none;
+}
+/* END NAV BAR */
+
+
